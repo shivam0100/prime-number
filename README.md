@@ -1,1 +1,1 @@
-# prime-number
+# Exercise2 prime-number
